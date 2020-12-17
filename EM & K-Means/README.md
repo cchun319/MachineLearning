@@ -1,0 +1,3 @@
+# Expectation Maximization 
+
+# K-Means
