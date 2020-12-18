@@ -1,10 +1,17 @@
 # MachineLearning
-- [Emotion Detection](https://eff.org)  
-- [EM & K-Means](https://eff.org)
-- [Principle Component Analysis](https://eff.org)
-- [Regularized Regression](https://eff.org)
-- [Reinforcement Learning & Autoencoder](https://eff.org)
-- [DecisionTree](https://eff.org)
+- [Emotion Detection](https://github.com/cchun319/MachineLearning/tree/main/Emotion%20Detection)</br>
+<img src="SupportVectorMachine/image/svm.png" alt="drawing" height="200"/>
+- [EM & K-Means](https://github.com/cchun319/MachineLearning/tree/main/EM%20%26%20K-Means)</br>
+<img src="EM & K-Means/image/cluster.PNG" alt="drawing" height="200"/>
+- [Principle Component Analysis](https://github.com/cchun319/MachineLearning/tree/main/Principle%20Component%20Analysis)</br>
+<img src="Principle Component Analysis/image/" alt="drawing" height="200"/>
+- [Regularized Regression](https://github.com/cchun319/MachineLearning/tree/main/Regularized%20Regression)</br>
+- [Reinforcement Learning & Autoencoder](https://github.com/cchun319/MachineLearning/tree/main/Reinforcement%20Learning%20%26%20Autoencoder)</br>
+<img src="Reinforcement Learning & Autoencoder/image/q_learning.pngg" alt="drawing" height="200"/>
+- [DecisionTree](https://github.com/cchun319/MachineLearning/tree/main/DecisionTree)</br>
+<img src="DecisionTree/image/decision-tree.png" alt="drawing" height="200"/>
+- [Support Vector Machine](https://github.com/cchun319/MachineLearning/tree/main/SupportVectorMachine)</br>
+<img src="SupportVectorMachine/image/svm.png" alt="drawing" height="200"/>
 
 
 python3.6
