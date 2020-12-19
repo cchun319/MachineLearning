@@ -14,4 +14,5 @@
 <img src="SupportVectorMachine/image/svm.png" alt="drawing" height="200"/></br>
 
 
+## technology
 python3.6
