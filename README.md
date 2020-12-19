@@ -1,6 +1,6 @@
 # MachineLearning
 - [Emotion Detection](https://github.com/cchun319/MachineLearning/tree/main/Emotion%20Detection)</br>
-<img src="SupportVectorMachine/image/svm.png" alt="drawing" height="200"/></br>
+<img src="Emotion Detection/image/word_cloud.png" alt="drawing" height="200"/></br>
 - [EM & K-Means](https://github.com/cchun319/MachineLearning/tree/main/EM%20%26%20K-Means)</br>
 <img src="EM & K-Means/image/cluster.PNG" alt="drawing" height="200"/></br>
 - [Principle Component Analysis](https://github.com/cchun319/MachineLearning/tree/main/Principle%20Component%20Analysis)</br>
