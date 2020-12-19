@@ -1,5 +1,7 @@
 # MachineLearning
+
 - [Emotion Detection](https://github.com/cchun319/MachineLearning/tree/main/Emotion%20Detection)</br>
+surveyed machine learning methods including SVM, Naive Bayes and LSTM to classify the emotion of the text.<\br>
 <img src="Emotion Detection/image/word_cloud.png" alt="drawing" height="200"/></br>
 - [EM & K-Means](https://github.com/cchun319/MachineLearning/tree/main/EM%20%26%20K-Means)</br>
 <img src="EM & K-Means/image/cluster.PNG" alt="drawing" height="200"/></br>
